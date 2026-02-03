@@ -1,0 +1,73 @@
+:root {
+ --black: #0c0c0c;
+ --dark: #111010;
+ --medium: #222523;
+ --accent: #161615;
+ --inactive: #bcbdb0;
+ --light: #f3f4e9;
+ --white: #fffffe;
+ 
+ --font-base: 1em;
+ --font-medium: 1.25em;
+ --font-large: 3.5em;
+ --font-heading: 6.5em;
+
+ --space-small: 0.5em;
+ --space-base: 2em;
+ --space-medium: 4em;
+ --space-large: 8em;
+ --space-xlarge: 16em;
+
+ --rounded-small: 0.75em;
+ --rounded-base: 2.5em;
+ --rounded-medium: 1em;
+ --rounded-large: 2em;
+}
+
+@font-face {
+  font-family: 'body';
+  src: url(body.otf);
+}
+
+@font-face {
+  font-family: 'mono';
+  src: url(mono.otf);
+}
+
+body {
+  font-family: 'body', sans-serif;
+  font-size: 0.85vw;
+  background-color: var(--dark);
+  color: var(--light);
+  padding: 0;
+  margin: 0;
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+a {
+  color: currentColor;
+  text-decoration: none;
+}
+
+ul, li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+img {
+  width: 100%;
+  object-fit: cover;
+}
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

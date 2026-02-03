@@ -1,0 +1,408 @@
+{
+  "home": {
+    "heroTitle": {
+      "titles": ["Entrepreneur général", "basé à Montréal"],
+      "videoSrc": "hero",
+      "variant": "home"
+    },
+    "ctaTitle": {
+      "titles": ["Une expertise complète,", "de l'extérieur à l'intérieur"],
+      "videoSrc": "outside",
+      "variant": "cta"
+    },
+    "detailsPanel": {
+      "headingLeft": "Depuis 2011",
+      "headingRight": "Montréal",
+      "title": "Projects bien pensés",
+      "subtitle": "Résultats durables",
+      "tags": ["Aménagement", "Construction", "& Rénovation"],
+      "intro": "PAVÉO est un entrepreneur général basé à Montréal, spécialisé dans les projets résidentiels nécessitant une planification rigoureuse, une exécution précise et des résultats durables."
+    },
+    "servicesItems": [
+      {
+        "videoSrc": "amenagement",
+        "tag": "Approche durable",
+        "number": "01",
+        "title": "Aménagement paysager",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aliquam, mi non viverra volutpat, magna magna lobortis tortor, dapibus pretium quam purus id dui. Nulla et arcu vel arcu tincidunt placerat id ut libero. Etiam interdum augue malesuada molestie eleifend.",
+        "linkTo": "/amenagement"
+      },
+      {
+        "videoSrc": "construction",
+        "tag": "Approche durable",
+        "number": "02",
+        "title": "Construction extérieure",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aliquam, mi non viverra volutpat, magna magna lobortis tortor, dapibus pretium quam purus id dui. Nulla et arcu vel arcu tincidunt placerat id ut libero. Etiam interdum augue malesuada molestie eleifend.",
+        "linkTo": "/construction",
+        "bgColor": "var(--medium)",
+        "reverse": true
+      },
+      {
+        "videoSrc": "renovation",
+        "tag": "Approche durable",
+        "number": "03",
+        "title": "Rénovation résidentielle",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aliquam, mi non viverra volutpat, magna magna lobortis tortor, dapibus pretium quam purus id dui. Nulla et arcu vel arcu tincidunt placerat id ut libero. Etiam interdum augue malesuada molestie eleifend.",
+        "linkTo": "/renovation",
+        "bgColor": "var(--accent)"
+      }
+    ],
+    "servicesDetailsPanel": {
+      "headingLeft": "Depuis 2011",
+      "headingRight": "Montréal",
+      "title": "Entrepreneur général",
+      "subtitle": "Basé à Montréal",
+      "tags": ["Aménagement", "Construction", "& Rénovation"],
+      "intro": "PAVÉO est un entrepreneur général basé à Montréal, spécialisé dans les projets résidentiels nécessitant une planification rigoureuse, une exécution précise et des résultats durables."
+    }
+  },
+  "amenagement": {
+    "heroTitle": {
+      "titles": ["Aménagement", "Paysager"],
+      "videoSrc": "hero",
+      "variant": "page"
+    },
+    "ctaTitle": {
+      "titles": ["Des projets bien pensés,", "résultats durables."],
+      "videoSrc": "hero",
+      "variant": "cta"
+    },
+    "detailsCard": {
+      "intro": "Créer des aménagements extérieurs cohérents, durables et adaptés à l'usage réel des espaces.",
+      "details": "Fort de plus de trente ans d'expertise familiale en construction et en aménagement extérieur dans la région de la capitale nationale (Ottawa–Gatineau), Maxime Marcotte fonde Aménagements Pavéo en 2017. L'entreprise se spécialise dans la réalisation de projets d'aménagement extérieur complets, incluant l'installation de pavés et de pierres, les ouvrages de béton, les structures extérieures, les systèmes d'irrigation et de pièces d'eau, l'éclairage et l'audio extérieur, la plantation de végétaux, ainsi que les ouvrages en métal et en fer forgé."
+    },
+    "items": [
+      {
+        "number": "01",
+        "title": "Pavés & pierres",
+        "description": "Installation de pavés (chauffants ou non), dalles, galets et pierres naturelles pour des surfaces durables, esthétiques et bien drainées."
+      },
+      {
+        "number": "02",
+        "title": "Ouvrages béton",
+        "description": "Réalisation de petits ouvrages de béton assurant solidité, stabilité et intégration harmonieuse à l'aménagement extérieur."
+      },
+      {
+        "number": "03",
+        "title": "Structures extérieures",
+        "description": "Installation de clôtures, terrasses, patios, pergolas, gazébos, pavillons, cuisines extérieures et autres structures sur mesure."
+      },
+      {
+        "number": "04",
+        "title": "Irrigation & eau",
+        "description": "Mise en place de systèmes d'irrigation automatique incluant pièces d'eau telles que bassins, étangs, chutes et fontaines."
+      },
+      {
+        "number": "05",
+        "title": "Ombrage",
+        "description": "Installation de voiles d'ombrage pour améliorer le confort, la protection solaire et l'usage des espaces extérieurs."
+      },
+      {
+        "number": "06",
+        "title": "Éclairage & audio",
+        "description": "Intégration de systèmes visuels et sonores : éclairage ambiant, mise en valeur paysagère et enceintes extérieures."
+      },
+      {
+        "number": "07",
+        "title": "Végétaux & plantation",
+        "description": "Sélection, livraison et plantation de végétaux : arbres fruitiers, feuillus, conifères, arbustes, plantes et fleurs."
+      },
+      {
+        "number": "08",
+        "title": "Métal & fer forgé",
+        "description": "Installation d'ouvrages en fer forgé et en métaux usinés pour des éléments décoratifs ou structuraux durables."
+      }
+    ]
+  },
+  "construction": {
+    "heroTitle": {
+      "titles": ["Construction", "Extérieur"],
+      "videoSrc": "hero",
+      "variant": "page"
+    },
+    "ctaTitle": {
+      "titles": ["Des projets bien pensés,", "résultats durables."],
+      "videoSrc": "hero",
+      "variant": "cta"
+    },
+    "detailsCard": {
+      "intro": "Planifiée et réalisée avec précision afin d'assurer la solidité, la durabilité et la cohérence.",
+      "details": "Fort de plus de trente ans d'expertise familiale en construction et en aménagement extérieur dans la région de la capitale nationale (Ottawa–Gatineau), Maxime Marcotte fonde Aménagements Pavéo en 2017. L'entreprise se spécialise dans la réalisation de projets d'aménagement extérieur complets, incluant l'installation de pavés et de pierres, les ouvrages de béton, les structures extérieures, les systèmes d'irrigation et de pièces d'eau, l'éclairage et l'audio extérieur, la plantation de végétaux, ainsi que les ouvrages en métal et en fer forgé."
+    },
+    "items": [
+      {
+        "number": "01",
+        "title": "Pavés & pierres",
+        "description": "Mise en œuvre et installation de pavés, dalles, galets et pierres naturelles, incluant la préparation des fondations et le drainage adéquat."
+      },
+      {
+        "number": "02",
+        "title": "Ouvrages béton",
+        "description": "Construction de petits ouvrages de béton assurant la stabilité, la durabilité et la structure des aménagements extérieurs."
+      },
+      {
+        "number": "03",
+        "title": "Structures extérieures",
+        "description": "Construction et installation de structures extérieures telles que clôtures, terrasses, patios, pergolas, pavillons et cuisines extérieures."
+      },
+      {
+        "number": "04",
+        "title": "Irrigation & eau",
+        "description": "Installation de systèmes d'irrigation automatique et de pièces d'eau, incluant bassins, étangs, chutes et fontaines."
+      },
+      {
+        "number": "05",
+        "title": "Ombrage",
+        "description": "Installation sécuritaire et durable de voiles d'ombrage adaptées aux contraintes du site et à l'utilisation prévue."
+      },
+      {
+        "number": "06",
+        "title": "Éclairage & audio",
+        "description": "Installation de systèmes d'éclairage extérieur et d'équipements audio intégrés pour une mise en valeur fonctionnelle et esthétique."
+      },
+      {
+        "number": "07",
+        "title": "Végétaux & plantation",
+        "description": "Travaux de plantation incluant la mise en place, la disposition et l'intégration des végétaux au projet construit."
+      },
+      {
+        "number": "08",
+        "title": "Métal & fer forgé",
+        "description": "Installation d'ouvrages en fer forgé et en métaux usinés pour des éléments structuraux ou décoratifs durables."
+      }
+    ]
+  },
+  "renovation": {
+    "heroTitle": {
+      "titles": ["Renovation", "Résidentielle"],
+      "videoSrc": "hero",
+      "variant": "page"
+    },
+    "ctaTitle": {
+      "titles": ["Des projets bien pensés,", "résultats durables."],
+      "videoSrc": "hero",
+      "variant": "cta"
+    },
+    "detailsCard": {
+      "intro": "Moderniser une maison, d'optimiser les espaces ou de corriger des éléments désuets.",
+      "details": "Fort de plus de trente ans d'expertise familiale en construction et en aménagement extérieur dans la région de la capitale nationale (Ottawa–Gatineau), Maxime Marcotte fonde Aménagements Pavéo en 2017. L'entreprise se spécialise dans la réalisation de projets d'aménagement extérieur complets, incluant l'installation de pavés et de pierres, les ouvrages de béton, les structures extérieures, les systèmes d'irrigation et de pièces d'eau, l'éclairage et l'audio extérieur, la plantation de végétaux, ainsi que les ouvrages en métal et en fer forgé."
+    },
+    "items": [
+      {
+        "number": "01",
+        "title": "Démolition contrôlée",
+        "description": "Démolition intérieure partielle ou complète en préparation aux travaux, effectuée de façon sécuritaire et structurée."
+      },
+      {
+        "number": "02",
+        "title": "Murs & cloisons",
+        "description": "Modification, construction ou retrait de murs et cloisons pour reconfigurer les espaces intérieurs."
+      },
+      {
+        "number": "03",
+        "title": "Planchers",
+        "description": "Installation ou remplacement de planchers : bois, vinyle, céramique ou autres revêtements."
+      },
+      {
+        "number": "04",
+        "title": "Cuisine",
+        "description": "Rénovation complète ou partielle de cuisines, incluant l'aménagement, les armoires et les surfaces."
+      },
+      {
+        "number": "05",
+        "title": "Salle de bain",
+        "description": "Rénovation de salles de bain : douches, bains, vanités, céramique et optimisation des espaces."
+      },
+      {
+        "number": "06",
+        "title": "Finition intérieure",
+        "description": "Travaux de finition incluant gypse, plâtre, moulures, peinture et ajustements finaux."
+      },
+      {
+        "number": "07",
+        "title": "Portes & fenêtres",
+        "description": "Remplacement ou ajustement de portes et fenêtres intérieures pour améliorer confort et fonctionnalité."
+      },
+      {
+        "number": "08",
+        "title": "Mise aux normes",
+        "description": "Corrections et ajustements nécessaires pour assurer la conformité, la sécurité et la durabilité du bâtiment."
+      }
+    ]
+  },
+  "about": {
+    "heroTitle": {
+      "titles": ["Projets bien pensés,", "Résultats durables"],
+      "videoSrc": "hero",
+      "variant": "page"
+    },
+    "ctaTitle": {
+      "titles": ["Résultats durable", "depuis 2011"],
+      "videoSrc": "hero",
+      "variant": "cta"
+    },
+    "detailsCard": {
+      "intro": "Une équipe multidisciplinaire talentueuse, créative, fiable, expérimentée et bienveillante.",
+      "details": "Fort de plus de trente ans d'expertise familiale en construction et en aménagement extérieur dans la région de la capitale nationale (Ottawa–Gatineau), Maxime Marcotte fonde Aménagements Pavéo en 2017. L'entreprise se spécialise dans la réalisation de projets d'aménagement extérieur complets, incluant l'installation de pavés et de pierres, les ouvrages de béton, les structures extérieures, les systèmes d'irrigation et de pièces d'eau, l'éclairage et l'audio extérieur, la plantation de végétaux, ainsi que les ouvrages en métal et en fer forgé."
+    }
+  },
+  "articles": {
+    "titleSimple": {
+      "title": "Des projets bien pensés,",
+      "subtitle": "résultats durables."
+    },
+    "ctaTitle": {
+      "titles": ["Des projets bien pensés,", "résultats durables."],
+      "videoSrc": "hero",
+      "variant": "cta"
+    },
+    "detailsPanel": {
+      "headingLeft": "Depuis 2011",
+      "headingRight": "Montréal",
+      "title": "Projects bien pensés",
+      "subtitle": "Résultats durables",
+      "tags": ["Aménagement", "Construction", "& Rénovation"],
+      "intro": "PAVÉO est un entrepreneur général basé à Montréal, spécialisé dans les projets résidentiels nécessitant une planification rigoureuse, une exécution précise et des résultats durables."
+    },
+    "articlesItems": [
+      {
+        "videoSrc": "amenagement",
+        "tag": "Aménagement paysager",
+        "number": "01",
+        "title": "Comment créer un jardin durable",
+        "description": "Découvrez nos conseils pour créer un jardin qui résiste aux saisons et nécessite peu d'entretien. Des plantes indigènes aux systèmes d'irrigation efficaces.",
+        "linkTo": "/articles/comment-creer-un-jardin-durable",
+        "bgColor": "var(--dark)"
+      },
+      {
+        "videoSrc": "construction",
+        "tag": "Construction",
+        "number": "02",
+        "title": "Les tendances en design extérieur 2024",
+        "description": "Les dernières tendances en matière de design extérieur, des terrasses modernes aux espaces de vie en plein air.",
+        "linkTo": "/articles/tendances-design-exterieur-2024",
+        "bgColor": "var(--medium)",
+        "reverse": true
+      },
+      {
+        "videoSrc": "renovation",
+        "tag": "Rénovation",
+        "number": "03",
+        "title": "Rénover votre patio: guide complet",
+        "description": "Un guide étape par étape pour rénover votre patio, du choix des matériaux à la finition finale.",
+        "linkTo": "/articles/renover-votre-patio-guide-complet",
+        "bgColor": "var(--accent)"
+      }
+    ],
+    "articlesDetailsPanel": {
+      "headingLeft": "Articles",
+      "headingRight": "Expertise",
+      "title": "Nos articles",
+      "subtitle": "Conseils & Inspiration",
+      "tags": ["Aménagement", "Construction", "& Rénovation"],
+      "intro": "Découvrez nos articles et conseils d'experts pour vos projets d'aménagement paysager, de construction extérieure et de rénovation résidentielle."
+    }
+  },
+  "single": {
+    "titleImage": {
+      "title": "Comment créer un jardin durable",
+      "imageSrc": "/assets/soumission.png"
+    },
+    "articleContent": {
+      "content": "<h2>Introduction</h2><p>Créer un jardin durable est un processus qui demande réflexion et planification. Dans cet article, nous vous guidons à travers les étapes essentielles pour concevoir un espace extérieur qui résiste aux saisons tout en nécessitant un minimum d'entretien.</p><h2>Choisir les bonnes plantes</h2><p>La sélection de plantes indigènes est cruciale pour un jardin durable. Ces plantes sont naturellement adaptées au climat local et nécessitent moins d'eau et d'entretien que les espèces exotiques.</p><h3>Plantes indigènes recommandées</h3><ul><li>Échinacée pourpre pour les zones ensoleillées</li><li>Fougères pour les zones ombragées</li><li>Graminées ornementales pour la structure</li></ul><h2>Systèmes d'irrigation efficaces</h2><p>Un système d'irrigation bien conçu peut réduire considérablement la consommation d'eau. Les systèmes goutte-à-goutte et les arroseurs à minuterie sont des solutions efficaces pour maintenir un jardin en santé.</p><p>En suivant ces principes, vous créerez un jardin qui prospérera année après année avec un minimum d'intervention.</p>"
+    }
+  },
+  "shared": {
+    "aboutItems": [
+      {
+        "videoSrc": "amenagement",
+        "tag": "Clarté totale",
+        "number": "01",
+        "title": "Décision & transparence",
+        "description": "Nous fournissons à nos clients tous les éléments nécessaires pour prendre des décisions éclairées, réalistes et adaptées à leur projet. Chaque recommandation est expliquée clairement, en tenant compte des contraintes du site, du budget et des objectifs à long terme, afin d'éviter les imprévus et les choix précipités."
+      },
+      {
+        "videoSrc": "renovation",
+        "tag": "Engagement qualité",
+        "number": "01",
+        "title": "Qualité & responsabilité",
+        "description": "Nos travaux sont réalisés avec rigueur et couverts par une garantie de deux ans. Lorsque possible, nous conservons et valorisons les éléments existants de l'aménagement paysager et assurons une gestion écoresponsable des rebuts et déchets, dans le respect de l'environnement et des normes en vigueur.",
+        "bgColor": "var(--medium)",
+        "reverse": true
+      },
+      {
+        "videoSrc": "construction",
+        "tag": "Respect constant",
+        "number": "01",
+        "title": "Respect & environnement",
+        "description": "La sécurité, la propreté et le respect sont maintenus en tout temps sur nos chantiers. Nous accordons une importance particulière au bien-être des occupants, du voisinage et de nos employés, en faisant preuve d'empathie, de bienveillance et de professionnalisme à chaque étape du projet.",
+        "bgColor": "var(--accent)"
+      }
+    ],
+    "aboutDetailsPanel": {
+      "headingLeft": "Depuis 2011",
+      "headingRight": "Montréal",
+      "title": "Entrepreneur général",
+      "subtitle": "Basé à Montréal",
+      "tags": ["Aménagement", "Construction", "& Rénovation"],
+      "intro": "PAVÉO est un entrepreneur général basé à Montréal, spécialisé dans les projets résidentiels nécessitant une planification rigoureuse, une exécution précise et des résultats durables."
+    },
+    "reviews": [
+      {
+        "name": "Camille Robert",
+        "text": "Nous avons beaucoup apprécié notre expérience avec Pavéo. Équipe professionnelle, communication rapide et un résultat au-delà de nos attentes. Nous profitons encore plus de notre jardin...",
+        "photo": null
+      },
+      {
+        "name": "Dominique Sarrazin",
+        "text": "Travail d'aménagement de pierres naturelles exceptionnel dans ma cour du Plateau Mont-Royal. Une équipe professionnelle, soucieuse du détail et du rendu harmonieux. Je recommande à tous les amoureux du travail bien fait...",
+        "photo": null
+      },
+      {
+        "name": "George Jebara",
+        "text": "Merci à Maxime, Alexis et l'équipe Pavéo pour l'excellent aménagement de notre cour avec un deck sur deux niveaux. Professionnels, minutieux et très à l'écoute — nos attentes ont été dépassées...",
+        "photo": null
+      },
+      {
+        "name": "Marc Laberge",
+        "text": "Merci à Maxime et l'équipe Pavéo pour une superbe terrasse en pierres naturelles et un mur vert qui rendent notre cour encore plus agréable. Équipe sympathique, professionnelle et très efficace...",
+        "photo": null
+      },
+      {
+        "name": "Martin Durocher",
+        "text": "Beaux travaux de pavage pour l'agrandissement de mon stationnement. Réalisés avec minutie et dans les délais prévus. Les résultats sont au-delà de mes attentes — très satisfait...",
+        "photo": null
+      },
+      {
+        "name": "Catherine Gosselin",
+        "text": "Pavéo a parfaitement compris nos besoins et proposé des matériaux respectant nos goûts. Travail efficace et minutieux, communication facile tout au long du projet. Nous sommes très satisfaits des résultats...",
+        "photo": null
+      },
+      {
+        "name": "Sebastien Benarroch",
+        "text": "Major backyard transformation including a large composite deck, fire pit and custom structures — the result is fantastic. Easy to work with, communicative and receptive to feedback. We're extremely happy...",
+        "photo": null
+      },
+      {
+        "name": "Anne Lavoie",
+        "text": "Maxime et son équipe ont livré un travail exemplaire. Fiables, professionnels et efficaces, ils ont respecté nos besoins et notre budget sans surprise. Nous les recommandons vivement...",
+        "photo": null
+      },
+      {
+        "name": "Eve-Marie Boutet",
+        "text": "Excellent boulot de Maxime et l'équipe Pavéo. À l'écoute, travail magnifique et souci du détail même après la fin du projet. On profite maintenant beaucoup plus de notre cour...",
+        "photo": null
+      },
+      {
+        "name": "Qian Wu",
+        "text": "Maxime a été le seul à analyser notre projet dans son ensemble et proposer une solution complète. Il a coordonné des sous-contractants fiables et nous a aidés à surmonter des obstacles avec la ville...",
+        "photo": null
+      },
+      {
+        "name": "Frédéric Poirier",
+        "text": "Très satisfaits d'avoir confié notre terrasse en composite et nos aménagements à Pavéo. Excellent travail, design soigné et communication constante. Nous recommandons vivement...",
+        "photo": null
+      }
+    ]
+  }
+}
